@@ -1,1 +1,5 @@
+<<<<<<< Upstream, based on origin/main
 moreconflict1
+=======
+moreconflict2
+>>>>>>> 4b7e362 
